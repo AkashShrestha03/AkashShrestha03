@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AkashShrestha03
-- 👀 I’m interested in Fullstack Development 
-- 🌱 I’m currently learning Css and javascript 
+- 👋 Hi, I’m Akash Shrestha
+- 👀 
+- 🌱 I’m currently learning CSS and Javascript 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: akashshrestha0399@gmail.com
 - 😄 Pronouns: ...
