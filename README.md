@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Javascript and ReactJs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: 📧 akashshrestha0399@gmail.com
-📞 +91-8527526881
+
 
 - 😄 Pronouns: 
 - ⚡ Fun fact:
